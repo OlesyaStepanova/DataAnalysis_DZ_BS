@@ -13,7 +13,7 @@
 4) Запустите скрипт
 5) После завершения работы программы откройте файл flats.csv, чтобы увидеть результаты.
 # Настройка параметров
-1) В параметре url указывается адрес страницы, с которой будет происходить парсинг, например: url="https://www.cian.ru/cat.php?deal_type=sale&engine_version=2&offer_type=flat&p={page}&region=1&room2=1)](https://www.cian.ru/cat.php?deal_type=sale&engine_version=2&offer_type=flat&p={page}&region=1&room2=1"
+1) В параметре url указывается адрес страницы, с которой будет происходить парсинг, например: url="https://www.cian.ru/cat.php?deal_type=sale&engine_version=2&offer_type=flat&p={page}&region=1&room2=1"
 2) Параметр pages_to_fetch задаёт число страниц, которые будут обработаны, например: pages_to_fetch = 25
 # Структура CSV-файла
 Файл flats.csv содержит следующие колонки:
